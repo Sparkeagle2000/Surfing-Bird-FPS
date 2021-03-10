@@ -4051,3 +4051,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.10-13.57.35:981][126]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2021.03.10-13.57.35:985][126]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
 [2021.03.10-13.57.35:989][126]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-13.58.09:288][126]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.10-13.58.15:311][126]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-13.58.15:438][126]LogExit: Editor shut down
+[2021.03.10-13.58.16:158][126]LogExit: Transaction tracking system shut down
+[2021.03.10-13.59.08:676][126]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001DE80BBE9C0), frame # 183126
+[2021.03.10-13.59.08:676][126]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DE80A34B80), frame # 183126
+[2021.03.10-13.59.08:709][126]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DE80A81C00), frame # 183126
